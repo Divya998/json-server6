@@ -1,100 +1,100 @@
 {"sites":  [
     {
         "region": "ABI Central Office",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "COF ABI:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
         
     },
     {
         "region": "ABI Central Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Bedford S&D:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
         
     },
     {
         "region": "ABI Central Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Benrose S&D:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI Central Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Dev S&D SS Old:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI Central Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Devland S&D Old:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI Central Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Midrand S&D:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI Central Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "S Gauteng R O:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI Devland Manufacturing",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Dev Manut:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "KZN Region:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Ladysmith:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Newcastle:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Phoenic:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Pierermaritz:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Premier:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region": "ABI KZN Region",
-        "regionIsActive": "true",
+        "regionIsActive": true,
         "site": "Richards Bay:ABI",
-        "siteIsActive": "false"
+        "siteIsActive": false
     },
     {
         "region":"ABI KZN Region",
-        "regionIsActive":"true",
+        "regionIsActive":true,
         "site":"Vryheid :ABI",
-        "siteIsActive":"false"
+        "siteIsActive":false
     }
 ]}
